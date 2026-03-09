@@ -9,7 +9,7 @@ Process:
   - Processor: URLTextSearcher
     Arguments:
       re_pattern: (?P<url>https:\/\/dl.dell.com\/.*?\/1\/DDPMv(?P<version>.*?).zip)
-      url: https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=ktk2n&oscode=mac1&productcode=dell-display-peripheral-manager
+      url: https://www.dell.com/support/home/en-ca/drivers/driversdetails?driverid=2ycw7&oscode=mac1&productcode=dell-display-peripheral-manager
 
   - Processor: URLDownloader
     Arguments:
